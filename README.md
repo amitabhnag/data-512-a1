@@ -1,3 +1,4 @@
+
 # data-512-a1
 HCDS - Assignment 1 - Data curation, processing and analysis
 Code License: MIT
@@ -18,7 +19,9 @@ pageviews_mobile-app_201507-201709.json
 pageviews_mobile-web_201507-201709.json
 
 B)This file has the analyzed data:
+
 en-wikipedia_traffic_200801-201709.csv
 
 C) This is the graph produced by the analysis:
+
 PlotPageviewsENoverlap.png
